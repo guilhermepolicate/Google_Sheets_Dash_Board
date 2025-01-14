@@ -1,5 +1,5 @@
 # Dashboard_Excel
-##Dashboard desenvolvido com o Google Sheets para análise do volume de compra e venda de ações bem como para comparação do volume e do retorno esperado frente ao que foi de fato realizado.
+## Dashboard desenvolvido com o Google Sheets para análise do volume de compra e venda de ações bem como para comparação do volume e do retorno esperado frente ao que foi de fato realizado.
 # Sobre o Dashboard
 Esse Dashboard foi desenvolvido com dados fictício de uma banca de Traders onde o seu objetivo e fazer um levantamento visual de suas operações bem como uma avaliação do desempenho da equipe.  
 
